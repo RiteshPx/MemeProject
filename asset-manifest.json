@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MemeProject/static/css/main.091f58d9.css",
-    "main.js": "/MemeProject/static/js/main.86458ebb.js",
+    "main.js": "/MemeProject/static/js/main.ed1ade90.js",
     "index.html": "/MemeProject/index.html",
     "main.091f58d9.css.map": "/MemeProject/static/css/main.091f58d9.css.map",
-    "main.86458ebb.js.map": "/MemeProject/static/js/main.86458ebb.js.map"
+    "main.ed1ade90.js.map": "/MemeProject/static/js/main.ed1ade90.js.map"
   },
   "entrypoints": [
     "static/css/main.091f58d9.css",
-    "static/js/main.86458ebb.js"
+    "static/js/main.ed1ade90.js"
   ]
 }
